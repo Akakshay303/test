@@ -1,4 +1,0 @@
-Name: Akshay
-Skills: HTML, CSS, JS, react, tailwind CSS, scss, bootstrap ,Next.js, mysql, mongodb, node.js, express.js, ts, git, responsive web design, unity game developement
-Email: akshay9868664433@gmail.com
-
